@@ -20,14 +20,15 @@ To compile the program, you can use the following commands:
 
 #### Compilation with basic requirements flags:
 
-"```bash
+```bash
 g++ *.cpp -Wall -Wextra -Weffc++ -std=c++14 -pedantic -o program
-
+```
 
 #### Compilation with the extra additional flags:
 
-"```bash
+```bash
 g++ -std=c++14 -Wall -g -O0 -pedantic -std=c++14 -Wall -Wextra -Weffc++ -Wconversion -o out_program *.cpp
+```
 
 #### Functionality:
 	- Input of quadratic equation coefficients.
@@ -39,20 +40,21 @@ g++ -std=c++14 -Wall -g -O0 -pedantic -std=c++14 -Wall -Wextra -Weffc++ -Wconver
 	- Google Style for comments.
 
 #### References:
-	- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-	- [Indentation Style](https://en.wikipedia.org/wiki/Indentation_style)
+- Google Style: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- Indentation Style: &nbsp;[Indentation Style](https://en.wikipedia.org/wiki/Indentation_style)
+
+
+
 
 
 #### Additional Information
 	Complexity: Simple
-
 	Time complexity: O(1)
-
 	Memory complexity: O(1)
 
 
 
-- `Comes in future version`
+Comes in future version
 
 ==========================
 ##### Use cases:
