@@ -35,7 +35,7 @@ Google Style for comments.
 - main.cpp: Declaration and implementation of the runnig main program.
 
 #### References:
-- Google Style: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google C++ Style Guide](https://google.github.io/styleguide/cpp    guide.html)
+- Google Style: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - Indentation Style: &nbsp;[Indentation Style](https://en.wikipedia.org/wiki/Indentation_style)
 
 
